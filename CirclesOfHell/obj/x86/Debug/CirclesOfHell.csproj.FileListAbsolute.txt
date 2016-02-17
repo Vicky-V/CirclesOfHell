@@ -1,0 +1,247 @@
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.exe
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.pdb
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\MonoGame.Framework.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Lidgren.Network.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.csprojResolveAssemblyReference.cache
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\backieround.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Demon.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\heart.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Hearts.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\level.txt
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.wma
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\projectile.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\temptiles.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\test.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Bullet.xnb
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\jump.xnb
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.xnb
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\shooting.xnb
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\bg_layer1.png
+E:\C++ PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\hero.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.csprojResolveAssemblyReference.cache
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\backieround.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\bg_layer1.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Demon.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\heart.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Hearts.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\hero.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\level.txt
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.wma
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\projectile.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\temptiles.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\test.png
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Bullet.xnb
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\jump.xnb
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.xnb
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\shooting.xnb
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.exe
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.pdb
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\MonoGame.Framework.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Lidgren.Network.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.dll
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.xml
+L:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Demon.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\heart.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Hearts.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\hero.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\level.txt
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.wma
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\projectile.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\temptiles.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\test.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Bullet.xnb
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\jump.xnb
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.xnb
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\shooting.xnb
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.exe
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.pdb
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\MonoGame.Framework.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Lidgren.Network.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.csprojResolveAssemblyReference.cache
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.csprojResolveAssemblyReference.cache
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Demon.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\heart.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Hearts.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\hero.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\level.txt
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.wma
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\projectile.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\temptiles.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\test.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Bullet.xnb
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\jump.xnb
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.xnb
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\shooting.xnb
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.exe
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.pdb
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\MonoGame.Framework.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Lidgren.Network.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\bg_layer.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\bg_layer.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Start.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Start.png
+H:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Tiles.png
+G:\COLLEGE BACKUP\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Tiles.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.csprojResolveAssemblyReference.cache
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\bg_layer.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Demon.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\heart.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Hearts.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\hero.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\level.txt
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.wma
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\projectile.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Start.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\temptiles.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\test.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Tiles.png
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Bullet.xnb
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\jump.xnb
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.xnb
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\shooting.xnb
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.exe
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.pdb
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\MonoGame.Framework.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Lidgren.Network.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\COLLEGE BACKUP\SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+H:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.csprojResolveAssemblyReference.cache
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\bg_layer.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Demon.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\heart.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Hearts.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\hero.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\level.txt
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.wma
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\projectile.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Start.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\test.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Tiles.png
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\Bullet.xnb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\jump.xnb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\music.xnb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Content\shooting.xnb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.exe
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\CirclesOfHell.pdb
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\MonoGame.Framework.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\Lidgren.Network.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.dll
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XAudio2.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D11.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.DXGI.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct2D1.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.XInput.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.RawInput.xml
+J:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.exe
+F:\COLLEGE BACKUP\_SIDE PROJECTS\My C# Project\My Project\CirclesOfHell\CirclesOfHell\obj\x86\Debug\CirclesOfHell.pdb
